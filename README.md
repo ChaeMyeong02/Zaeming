@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChaeMyeong02
-- 👀 I’m interested in ...
-- 🌱 JAVA DATABASE
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 
+- 🌱 JAVA
+- 💞️ 
+- 📫 
